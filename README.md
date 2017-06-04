@@ -1,1 +1,1 @@
-lastFmPopclip
+# Popclip extension for Last.FM

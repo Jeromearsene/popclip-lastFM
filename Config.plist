@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<integer>1</integer>
+	<key>Extension Name</key>
+	<string>Last.FM</string>
+	<key>Extension Identifier</key>
+	<string>com.lastfm.extension.last.FM</string>
+	<key>Extension Description</key>
+	<string>Search in Last.FM website.</string>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>URL</key>
+			<string>http://www.last.fm/fr/search?q={popclip text}</string>
+			<key>Image File</key>
+			<string>lastfmIcon.png</string>
+			<key>Title</key>
+			<string>Last.FM</string>
+		</dict>
+	</array>
+</dict>
+</plist>
